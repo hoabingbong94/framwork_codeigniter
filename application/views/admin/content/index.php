@@ -1,0 +1,1 @@
+welcome to trang noi dung comment cua nguoi dung

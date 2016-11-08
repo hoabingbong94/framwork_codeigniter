@@ -1,0 +1,77 @@
+
+/* 
+    Created on : Oct 12, 2016, 1:54:12 AM
+    Author     : Bọ Chét
+*/
+.error{
+    color: red;
+}
+.speaker{
+    font-size: 16px;
+}
+.note{
+    color:red;
+    /*font-weight: bold;*/
+}
+.color-icon{
+    color: #aaa;
+}
+.media .media-left img {
+    border: 1px solid #dedede;
+    height: 50px;
+    width: 50px;
+}
+.post-h4{
+    font-weight: bold;
+    font-size: 14px;
+}
+.media .head h4.media-heading {
+    float: left;
+}
+.media-left{
+    width: 50px ;
+    float:left;
+}
+.media-body{
+    padding-left: 10px;
+}
+.media .minute{
+    float: right !important;
+    font-size: 14px;
+    color: #737373;
+
+}
+
+.media .content_r {
+    max-height: 63px;
+    font-size: 14px;
+    font-weight: normal;
+    display: block;
+    margin-top: 3px;
+    overflow: hidden;
+}
+.media .new-fullname{
+    font-size: 15px;
+    color: #737373;
+    float: left;
+    width: 100%;
+    border-top: #D6D6D6 dashed 1px;
+    padding-top: 6px;
+}
+.box-input{
+    border-radius: 5px !important;
+}
+.box-delete{
+    color: red;
+}
+.box-delete:visited{
+    color: black;
+}
+.img-responsive{
+    height: 235px;
+    width: 180px;
+}
+.images-product{
+    height: 100px;
+    width: 110px;
+}
